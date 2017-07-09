@@ -1,7 +1,7 @@
 # Etemenanki
 
 "Computers are like Old Testament gods; lots of rules and no mercy."
-  - Joseph Campbell
+  -Joseph Campbell
 
 Etemenanki is Sumerian for "temple of the foundation of heaven and earth" and is the name of a ziggurat in the city of
 Babylon. Originally 91 meters in height, little remains of it now except ruins. Etemenanki is considered a possible
