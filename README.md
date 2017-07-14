@@ -10,3 +10,8 @@ inspiration for the biblical story (or even literal candidate for the tower itse
 # Scope
 
 This project is dediced towards exploring text summarization techniques and applying them towards the Holy Bible.
+
+# Data
+
+The King James Bible was dowloaded from Kaggle Data Sets
+Bible chapter summaries were accessed using the Twitter API
